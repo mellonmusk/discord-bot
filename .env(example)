@@ -1,0 +1,18 @@
+# Discord Bot Token (Required)
+# Get this from https://discord.com/developers/applications
+DISCORD_TOKEN=your_discord_bot_token_here
+
+# OpenAI API Key (Optional - for GPT analysis)
+# Get this from https://platform.openai.com/api-keys
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Google Gemini API Key (Optional - fallback for GPT)
+# Get this from https://aistudio.google.com/app/apikey
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# Tenor API Key (Optional - for GIF recommendations)
+# Get this from https://developers.google.com/tenor/guides/quickstart?hl=ko
+TENOR_API_KEY=your_tenor_api_key_here
+
+# Note: At least one AI API key (OpenAI or Gemini) is recommended for best results
+# Tenor API key is optional but recommended for better GIF quality

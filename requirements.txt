@@ -1,2 +1,6 @@
 discord.py
 python-dotenv
+openai
+google-generativeai
+requests
+aiohttp
