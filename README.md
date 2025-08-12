@@ -2,6 +2,9 @@
 
 A smart Discord bot that automatically analyzes conversation context and recommends the perfect memes and reaction GIFs using AI models.
 
+link: https://discord.com/oauth2/authorize?client_id=1404307063005384816&permissions=2048&integration_type=0&scope=bot (invite this bot to your server)
+
+
 ## ✨ Features
 
 - **🎭 Smart Context Analysis**: Uses AI to understand conversation mood and intent
